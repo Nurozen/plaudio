@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+artifacts/
+*.plaud
+*.part
+*.ogg
+*.wav
+identity.json
+identity*.json
+developer.json
+*.live.*
+.partial/
+recordings/
